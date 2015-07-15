@@ -2,7 +2,7 @@
 Codeplay is an opensource codeground(Live editor) for HTML,CSS,JS editor with live preview.
 It can be used for hosting sites like jsfiddle and codepen.You can also host it on your localhost and use it. Collaborate with your friends to code together.
 #DEMO
-  - [Codeplay](https://astarpx.com/projects/codeplay) 
+  - [Codeplay](https://astarpx.com/projects/codeplay) SAVE DISABLED IN DEMO
 
 ###features
   - jQuery Ready 
