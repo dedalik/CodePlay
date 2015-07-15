@@ -17,8 +17,11 @@ It can be used for hosting sites like jsfiddle and codepen.You can also host it 
   - Autocompletion and tag hilight.
   - CSS and JS linter
   
-###update 2.1.2
+###update 3.0.0
   - Added source code download option for users
+  - Collaboration
+  - share code
+  - code storage into database
 
 >future updates coming very soon please stay tuned.
 
@@ -37,6 +40,7 @@ It can be used for hosting sites like jsfiddle and codepen.You can also host it 
 * jQuery
 * codemirror
 * codeigniter
+* together.js
 
 ### Installation
 
