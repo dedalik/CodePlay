@@ -1,12 +1,16 @@
-# Codeplay ![Alt text](https://img.shields.io/badge/version-2.1.2-red.svg)
+# Codeplay ![Alt text](https://img.shields.io/badge/version-3.0.0-red.svg)
 Codeplay is an opensource codeground(Live editor) for HTML,CSS,JS editor with live preview.
-It can be used for hosting sites like jsfiddle and codepen.You can also host it on your localhost and use it.
+It can be used for hosting sites like jsfiddle and codepen.You can also host it on your localhost and use it. Collaborate with your friends to code together.
 #DEMO
-  - [Codeplay](https://astarpx.com/projects/codeplay)
+  - [Codeplay](https://astarpx.com/projects/codeplay) 
 
 ###features
   - jQuery Ready 
   - Live Preview
+  - SHARE CODE
+  - Collaborate with your team to code together
+  - Code storage into database
+  - Download code as HTML file
   - @import support and custom url import support(for images and other assets)
   - Session Storage Your can refresh the page without loosing changes
   - Resizable tabs for convinient coding
@@ -19,21 +23,20 @@ It can be used for hosting sites like jsfiddle and codepen.You can also host it 
 >future updates coming very soon please stay tuned.
 
 ### Version
->2.1.2
+>3.0.0
 
 ##Future updates
         -Hints for code
         -Theme editor
         -twitter bootstrap support for css out of the box
         -angular.js support
-        -code storage, code sharing and code collaboration
-        -Code storage
         -custom head tags
     
 ### Inside the hood
 
 * jQuery
 * codemirror
+* codeigniter
 
 ### Installation
 
@@ -43,6 +46,10 @@ or
 Clone the repository in desktop using the github app.
 or
 just download the zip file and uzip into your hosting.
+then
+Open your favorite MYSQL Server mostly phpmyadmin and import codeplay.sql file
+next go to application/config/database.php and enter your database credentials
+Thats is and you are good to go.
 ```
 
 ### Development
